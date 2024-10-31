@@ -1,5 +1,7 @@
-// SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.26;
+// SPDX-License-Identifier: GPL-3.0
+
+pragma solidity >=0.7.0 <0.9.0;
+
 
 import {Ownable} from "./Ownable.sol";
 
