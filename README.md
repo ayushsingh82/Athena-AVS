@@ -25,6 +25,24 @@ The AVSthon version of Athena is a proof of concept that delivers a functional d
 - **Demo Operator Application**: A Rust-based executable that fetches data, packaged as a Docker container.
 - **Aggregator**: Validates and verifies task results received from multiple Operators, confirming consensus before broadcasting results on-chain.
 
+
+## Contract Deployments and Explorer Links
+
+
+
+### ClientAppRegistry
+- **Contract Address**: `0x08D1b5896F369FcE571BEDabFF48960B9727aDc1`
+- **Explorer Link**: [ClientAppRegistry Transaction](https://holesky.etherscan.io/tx/0xe8b53c85f8d069bd0ad83477cb08978f1d223d3b88d6f04c12e75785de9d9c34)
+
+### TaskRegistry
+- **Contract Address**: `0x40840b6125C5a837A3D7f3815691F65F0D94Fc1e`
+- **Explorer Link**: [TaskRegistry Transaction](https://holesky.etherscan.io/tx/0xd18740f0a7624e7aba2fd372340b866743b4ddb6dace215eea29674be9841d2a)
+
+### Athena AVS
+- **Contract Address**: `0xEf4c61F0570890A5160f483DC4c81FA875E23b5b`
+- **Explorer Link**: [Athena AVS Transaction](https://holesky.etherscan.io/tx/0xe2f0e5a49a0454fc46a0d246313bf936e11a2b0be804814f2122e1312323159d)
+
+
 ## Workflow Overview
 
 ### Operator Registration
