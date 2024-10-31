@@ -9,6 +9,9 @@ Web3 applications are transforming industries by introducing decentralized frame
 ## Athena's Autonomous System
 Athena enables developers to register arbitrary client applications that Operators can execute and validate in a secure and decentralized environment. Operators in the network can engage in task execution, with results validated by Aggregators before being stored or broadcast on-chain. By integrating with Ethereum's EigenLayer, Athena ensures security, transparency, and tamper resistance for a wide range of Web3 applications.
 
+![image](https://github.com/user-attachments/assets/34d62943-0ce0-4cb5-ba41-dc5c323b8fa0)
+
+
 ### Core Components of Athena AVS
 1. **AthenaAvs** - The main AVS component managing Operator registration.
 2. **TaskRegistry** - Manages task registration, tracking, and execution by Operators.
